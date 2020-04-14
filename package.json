@@ -1,0 +1,24 @@
+{
+  "name": "simple-resize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "aws-serverless-express": "^3.3.8",
+    "axios": "^0.19.2",
+    "koa": "^2.11.0",
+    "koa-body": "^4.1.1",
+    "koa-router": "^8.0.8",
+    "nodemon": "^2.0.3",
+    "sharp": "^0.25.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.4"
+  }
+}
